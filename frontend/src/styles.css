@@ -1,0 +1,6 @@
+@import "~@angular/material/prebuilt-themes/pink-bluegrey.css"; 
+html { 
+       background-image: url('src\image\a.jpg');
+       background-repeat: no-repeat;
+       background-attachment: fixed; 
+       background-size: 100% 100%;}
